@@ -1,0 +1,5 @@
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
